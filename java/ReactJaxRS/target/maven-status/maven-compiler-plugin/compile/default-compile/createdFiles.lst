@@ -1,0 +1,5 @@
+com\teamcap\reactjaxrs\json\JSONResponse.class
+com\teamcap\reactjaxrs\json\ResponseStatus.class
+com\teamcap\reactjaxrs\service\AbstractService.class
+com\teamcap\reactjaxrs\model\Person.class
+com\teamcap\reactjaxrs\service\PersonService.class
